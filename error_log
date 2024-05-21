@@ -1,0 +1,40 @@
+[07-Nov-2023 14:30:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:30:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:30:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:31:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:31:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:31:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:31:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:31:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:31:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
+[07-Nov-2023 14:32:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home1/highsoen/public_html/zobstar/index3.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/highsoen/public_html/zobstar/index3.php on line 27
